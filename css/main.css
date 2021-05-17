@@ -2054,7 +2054,7 @@ header .header-logo a {
 
 .about-profile p {
 	font-size: 1rem;
-	line-height: 1px;
+	line-height: 25px;
 }
 
 /*  */
@@ -2323,6 +2323,7 @@ header .header-logo a {
 
 #skills .skill-bars li .progress {
 	background: #FFFFFF;
+	padding-left:10rem;
 }
 
 /* ------------------------------------------------------------------- 
