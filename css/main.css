@@ -2104,7 +2104,7 @@ header .header-logo a {
 
 .about-services ul.services .icon-wrap {
 	position: absolute;
-	top: 0;
+	top: 10;
 	left: 0;
 	color: rgba(46, 22, 3, 0.4);
 	color: #4C2405;
@@ -2119,15 +2119,15 @@ header .header-logo a {
 /*  */
 
 .about-services ul.services .item-photography .icon-wrap {
-	top: -.3rem;
+	top: .3rem;
 }
 
 .about-services ul.services .item-webdesign .icon-wrap {
-	top: -.7rem;
+	top: .7rem;
 }
 
 .about-services ul.services .item-uiux .icon-wrap {
-	top: -.1rem;
+	top: .1rem;
 }
 
 .about-services ul.services .service-item {
@@ -2323,7 +2323,7 @@ header .header-logo a {
 
 #skills .skill-bars li .progress {
 	background: #FFFFFF;
-	padding-left:10rem;
+	padding-left:20rem;
 }
 
 /* ------------------------------------------------------------------- 
