@@ -2230,6 +2230,7 @@ header .header-logo a {
 
 	.about-services ul.services .icon-wrap i {
 		font-size: 6rem;
+		padding:7px;
 	}
 
 	.about-services ul.services .service-item {
