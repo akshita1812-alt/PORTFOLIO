@@ -1791,7 +1791,9 @@ header .header-logo a {
 /*  */
 
 .home-bottom-text {
-	text-align: right;
+	text-align: left;
+	padding-left=10rem;
+	font-size=100px;
 }
 
 /*  */
