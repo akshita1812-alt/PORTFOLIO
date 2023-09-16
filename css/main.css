@@ -2117,7 +2117,10 @@ header .header-logo a {
 .about-services ul.services .icon-wrap i {
 	font-size: 10rem;
 }
-
+.icon-RegisteredTrademark, .icon-Picture, .icon-HTML, .icon-Checked{
+	width: 30px;
+	height: 30px;
+}
 /*  */
 
 .about-services ul.services .item-photography .icon-wrap {
